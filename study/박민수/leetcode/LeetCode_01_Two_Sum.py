@@ -1,4 +1,4 @@
-from typing import List
+from typing import List # 1번
 class Solution:
     def twoSum(nums: List[int], target: int) -> List[int]:
         for i in range(len(nums)):
